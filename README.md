@@ -1,1 +1,1 @@
-# React-3D-ThreeJS-Gsap
+# a 3D animation in React, using technologies such as WebGi (powered by Three.js) and GSAP
